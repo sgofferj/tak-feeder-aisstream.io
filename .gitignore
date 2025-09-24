@@ -1,0 +1,5 @@
+*.pem
+*.key
+node_modules
+.env
+test.xml

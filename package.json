@@ -1,0 +1,21 @@
+{
+  "name": "tak-feeder-traffic-fin-ais",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Gofferje <stefan@gofferje.net> (https://www.gofferje.net/)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@vidterra/tak.js": "^0.0.8",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "mqtt": "^4.3.7",
+    "node-cache": "^5.1.2",
+    "pws": "^7.0.0",
+    "tls": "^0.0.1",
+    "uuid": "^9.0.0"
+  }
+}
